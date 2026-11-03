@@ -24,7 +24,7 @@ SEQUENCE DIAGRAM:
 COMMUNICATION DIAGRAM:
 <img width="1047" height="822" alt="Screenshot 2026-10-30 095818" src="https://github.com/user-attachments/assets/bb6194e3-2d87-4b14-b6ed-dc0eb40b84ec" />
 ACTIVITY DIAGRAM:
-<img width="1046" height="555" alt="Screenshot 2026-10-30 095837" src="https://github.com/user-attachments/assets/b4facab7-2a19-4496-ab79-4abbeb1c763e" />
+<img width="1041" height="745" alt="image" src="https://github.com/user-attachments/assets/4e8714c9-e7c6-4166-9d9d-906a2fed8351" />
 
 
 
