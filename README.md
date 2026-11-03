@@ -32,3 +32,4 @@ ACTIVITY DIAGRAM:
 
 
 # RESULT:
+Thus, the UML diagrams for ATM & Banking System has been designed successfully.
